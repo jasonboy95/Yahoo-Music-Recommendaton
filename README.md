@@ -10,4 +10,6 @@ Run "Rating.py" to get the scores file
 Run "GetBlank.py" to get the tracks which never been rated  
 Run "GetNoBlank.py" to get the tracks which have been rated  
 Run "recommend.ipynb" and "Get_Final.py" to get the final results  
-Use the function "ensemble.m" in MatLab to ensemble the solutions
+Use the function "ensemble.m" in MatLab to ensemble the solutions 
+You can download the data files here:  
+https://drive.google.com/open?id=1j2DbFkn7sbRVzRJSXJFHb6Ecoox7fZaG
