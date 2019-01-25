@@ -2,7 +2,7 @@
 This project is my personal research.  
 In order to run the whole program:  
 Please install and use PySpark  
-Run "pip install pyspark" in the console and install pays-ark  
+Run "pip install pyspark" in the console and install payspark  
 Before run the "recommend.ipynb" please import pyspark  
 Run "Get_h.py" to get the file "testTrack_hierarchy.txt"  
 Run "Score.py" to get the scores file  
