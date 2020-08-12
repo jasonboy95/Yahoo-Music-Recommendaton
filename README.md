@@ -1,4 +1,6 @@
-# Yahoo-Music-Recommendaton
+# Yahoo-Music-Recommendation
+
+The report of this project: YahooMusicRec.pdf
 In order to run the whole program:  
 Please install and use PySpark  
 Run "pip install pyspark" in the console and install payspark  
